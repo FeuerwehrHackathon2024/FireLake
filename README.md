@@ -33,7 +33,7 @@ Datenmüllhalde :>
 - api/set
     - vehicle_state
 
-https://www.lightningmaps.org/blitzortung/europe/index.php?bo_page=archive&bo_show=maps&bo_map=de2&lang=de&bo_year=2023&bo_month=08&bo_day=24&bo_hour_from=12&bo_hour_range=2&bo_animation=1#bo_arch_strikes_maps_form
+[https://www.lightningmaps.org/blitzortung/europe/index.php?bo_page=archive&bo_show=maps&bo_map=de2&lang=de&bo_year=2023&bo_month=08&bo_day=24&bo_hour_from=12&bo_hour_range=2&bo_animation=1#bo_arch_strikes_maps_form](https://www.lightningmaps.org/blitzortung/europe/index.php?bo_page=archive&bo_show=maps&bo_map=de2&lang=de&bo_year=2023&bo_month=08&bo_day=24&bo_hour_from=0&bo_hour_range=24&bo_animation=1#bo_arch_strikes_maps_form)
 
 # Grafische Darstellung
 ![Grafik](https://raw.githubusercontent.com/FeuerwehrHackathon2024/FireLake/main/Firelake.png)
