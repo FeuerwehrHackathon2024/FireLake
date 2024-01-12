@@ -4,7 +4,7 @@
 - Brandmeldeanlage (BMA)
 - Car2X / Car to Car
 - BayernInfo.de || VerkehrsInfo.de
-- Störauskunft
+- Störauskunft https://xn--strungsauskunft-9sb.de/
 - Google Maps
 - lightningmaps.org
-- dwd.api.bund.dev --> inkl. Hochwasser und Überschwemmungen / Fließgeschwindigkeiten
+- dwd.api.bund.dev
