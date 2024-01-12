@@ -1,4 +1,7 @@
-# Readme
+# Was ist das?
+Eine Standartisierte Eingangs- und Ausgangsschnittstelle für den Feuerwehrdienst.
+Datenmüllhalde :>
+
 
 ## Informationsquellen
 - BayernInfo.de || VerkehrsInfo.de
@@ -20,3 +23,11 @@
     - Lokale Datentöpfe
         - Material Listen
         - Personal
+
+
+## Mögliche App Schnitstellen
+- api/get
+    - available_vehicle
+
+- api/set
+    - vehicle_state
