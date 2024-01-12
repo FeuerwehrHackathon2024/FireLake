@@ -32,3 +32,7 @@ Datenmüllhalde :>
 
 - api/set
     - vehicle_state
+
+
+# Grafische Darstellung
+![Grafik](https://raw.githubusercontent.com/FeuerwehrHackathon2024/FireLake/main/Firelake.png)
