@@ -6,4 +6,5 @@
 - BayernInfo.de || VerkehrsInfo.de
 - Störauskunft
 - Google Maps
-- 
+- lightningmaps.org
+- dwd.api.bund.dev
