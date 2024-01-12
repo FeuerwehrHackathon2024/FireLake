@@ -7,4 +7,4 @@
 - Störauskunft
 - Google Maps
 - lightningmaps.org
-- dwd.api.bund.dev
+- dwd.api.bund.dev --> inkl. Hochwasser und Überschwemmungen / Fließgeschwindigkeiten
