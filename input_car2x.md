@@ -14,6 +14,11 @@ Einige der Anwendungsfälle werden hier kurz dargestellt:
 
 Aus den verfügbaren Daten ergeben sich auch für die Feuerwehr Anwendungspotentiale.
 
+![Schaubild-Ecall](images/ECall-Schaubild.png)
+
+Bildquelle: [Semantic Scholar](https://www.semanticscholar.org/paper/In-Vehicle-Emergency-Call-Services%3A-eCall-and-%C3%96%C3%B6rni-Goulart/484c613f1736c9dfbc862a546428c831156d3562)
+
+
 # Anwendungsfälle
 
 Generell lassen sich vorhersagende und einsatzrelevante Anwendungsfälle unterscheiden.
