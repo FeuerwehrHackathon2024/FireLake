@@ -1,7 +1,7 @@
 # Blitzortung / Lightningmaps.org
 Basierend auf einem weltweiten Sensorennetz bietet die Webseite Lightningmaps.org von Blitzen. 
 
-# Echzeitdaten
+## Echzeitdaten
 Die Daten werden über einen geöffneten Websocket im JSON-Format abgerufen.
 
 Historische Daten 
