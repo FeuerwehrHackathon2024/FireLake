@@ -1,5 +1,5 @@
 # Szenario: Brandmeldeanlage (Abk. BMA)
-![Schaubild-BMA](BMA-Schaubild.png)
+![Schaubild-BMA](images/BMA-Schaubild.png)
 
 # Herausforderung
 Bei aktuell den meisten eingesetzten Brandmeldeanlagen gibt es nur die Information Anlage hat ausgelöst oder nicht.
