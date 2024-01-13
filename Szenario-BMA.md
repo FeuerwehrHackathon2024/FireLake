@@ -34,5 +34,5 @@ Beispiele - Ampelsystem 🚦
 Je nach Ampelstellung können hieraus bereits frühzeitig Nachalarme oder vorbereitende Maßnahmen getroffen werden.
 
 # Lösungsidee:
-Durch neuartige Übertragungsideen könnte das Feuerwehr Einsatztableau auf das Display des Einsatzeinleiters / ELWs gespiegelt werden.
+Durch neuartige Übertragungeinheiten könnte das Feuerwehr Einsatztableau auf das Display des Einsatzeinleiters / ELWs gespiegelt werden.
 Frühere Übertragungseinheiten konnten bisher nur die generelle Auslösung weitermelden ohne weitere Informationen zur Anlage.
