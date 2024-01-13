@@ -23,4 +23,7 @@
 - Störungsauskunft.de
 
   API-Public liefert JSON api-public.stoerungsauskunft.de (Header Authorization Basic ZnJvbnRlbmQ6ZnJvbnRlbmQ=)
+
+  ![Stoerungsauskunft](https://github.com/FeuerwehrHackathon2024/FireLake/assets/132459493/f4e4918f-fe51-4e37-b822-fcaaf380e557)
+
  
