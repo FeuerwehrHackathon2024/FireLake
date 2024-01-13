@@ -10,10 +10,6 @@
 7. Örtlichkeit = Koordinaten Blitzwahrscheinlichkeit
 8. 
 
-## Ressourcen
-- R1: https://störungsauskunft.de/
-- R2:
-
 ## Datenquellen
 - Blitzortung.org
   Datasource: Websocket wss://ws1.blitzortung.org
