@@ -39,7 +39,8 @@ Datenmüllhalde :>
 ![Grafik](images/Firelake.png)
 
 ## Szenarios
-- [BMA](https://github.com/FeuerwehrHackathon2024/FireLake/blob/main/Szenario-BMA.md)   
+- [BMA](Szenario-BMA.md)   
+- [Stromausfall](Szenario-Stromausfall.md)
 
 ## Eingabe
 - [Blitzortung](input_Blitzortung.md)
