@@ -18,7 +18,8 @@
 
   Datasource: WebFeatureService  (WFS)
   
-  ![DWD01](https://github.com/FeuerwehrHackathon2024/FireLake/assets/132459493/e43e322a-451c-44df-a203-ff008d3ac5f5)
+  ![DWD01](https://github.com/FeuerwehrHackathon2024/FireLake/assets/132459493/6cd3b50f-4a92-46b8-8fe2-2d117abf8263)
+
 
 - Störungsauskunft.de
 
