@@ -4,7 +4,7 @@ Basierend auf einem weltweiten Sensorennetz bietet die Webseite Lightningmaps.or
 ## Echzeitdaten
 Die Daten werden über einen geöffneten Websocket im JSON-Format abgerufen.
 
-Historische Daten 
+## Historische Daten 
 Archivdaten sind für bis zur fünf Jahre tagesweise (deutschlandweit) vorhanden.
 
 
