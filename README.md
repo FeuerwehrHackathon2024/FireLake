@@ -1,7 +1,11 @@
 # Was ist das?
-Eine Standartisierte Eingangs- und Ausgangsschnittstelle für den Feuerwehrdienst.
-Datenmüllhalde :>
+„Fire Lake“ soll ein großer Feuerwehr-Speichersee werden, in den öffentliche und interne Informations- und Datenquellen einfließen können. Denn für fast alle informations- und datenbasierten Feuerwehr-IT-Projekte ist ein zentraler Datenspeicher eine wichtige Grundlage. 
 
+Einsatzrelevante Echtzeitdaten zu Umwelt, Infrastruktur, sozialen Medien und IoT, Informationen aus Statistik- und GIS-Daten, Dienst- und Einsatzvorschriften, Einsatzkonzepten sowie Echtzeit-Diagnosedaten wichtiger Einsatzmittel („predective Maintenance“) sollen diesen Speichersee füllen.
+
+In Echtzeit verarbeitet können die (frei-)verfügbaren Daten helfen „vor die Lage“ zu kommen, um Entscheidungen z.B. bei der Feuerwehralarmierung datenbasiert zu unterstützen oder in Zukunft auch ereignisbasiert eine Einsatzwahrscheinlichkeit zu ermitteln. Für das LLM einer Feuerwehr-KI kann der große Datensee die Grundlage bilden um hilfreiche Fakten zu extrahiert, Zusammenhänge festzustellen oder Risiken frühzeitiger zu erkennen.
+
+Technische Grundlagen von FireLake soll ein OpenSource-Data Lake Framework wie z.B. Apache Hudi sein, das über 
 
 ## Informationsquellen
 - BayernInfo.de || VerkehrsInfo.de
