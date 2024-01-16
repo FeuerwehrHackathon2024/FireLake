@@ -1,5 +1,5 @@
 # Blitzortung / Lightningmaps.org
-Basierend auf einem weltweiten Sensorennetz bietet die Webseite Lightningmaps.org von Blitzen. 
+Basierend auf einem weltweiten Sensorennetz bietet die Webseite Lightningmaps.org Echtzeitdaten von Blitzen. 
 Aktuelles zum Projekt: https://www.blitzortung.org/de/whats_new.php
 
 ## Echzeitdaten
@@ -7,7 +7,7 @@ Die Daten werden über einen geöffneten Websocket im JSON-Format abgerufen.
 
 
 ## Historische Daten 
-Archivdaten sind für bis zur fünf Jahre tagesweise (deutschlandweit) vorhanden.
+Archivdaten sind für bis zur fünf Jahre tagesweise (deutschlandweit) als Bilddaten vorhanden. 
 
 
 
